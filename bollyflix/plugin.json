@@ -2,7 +2,7 @@
   "packageName": "dev.akash.stars.bollyflix",
   "name": "BollyFlix",
   "version": 1,
-  "baseUrl": "https://bollyflix.sarl",
+  "baseUrl": "https://bollyflix.af",
   "description": "BDIX TV Live Channels",
   "authors": [
     "Akash"
